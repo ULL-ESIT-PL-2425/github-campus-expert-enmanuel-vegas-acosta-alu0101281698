@@ -17,6 +17,7 @@
 
 ![project board kanban](docs/project_board.png)
 
-## Solicitar el GitHub Backpack
+## Solicitar el GitHub Backpack / GitHub Student
 
 ![github backpack](docs/backpack.png)
+![github global camput](docs/github_student.png)
